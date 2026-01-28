@@ -64,3 +64,4 @@ if suggestions:
 choice = input("\nDo you want a strong password generated? (yes/no): ").lower()
 if choice == "yes":
     print("🔑 Generated Password:", generate_strong_password())
+
