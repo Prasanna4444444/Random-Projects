@@ -18,4 +18,3 @@ while attempts > 0:
 
 if attempts == 0:
     print("😢 Game Over! The secret word was:", secret_word)
-vhhx
